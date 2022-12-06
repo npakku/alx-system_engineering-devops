@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((EXPONENT**LOVE))
+echo $((BREATH**LOVE))
